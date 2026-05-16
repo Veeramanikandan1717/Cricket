@@ -4,5 +4,11 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.11.2",
+    "players": "*",
+    "module-b": "*",
+    "react-redux": "^9.2.0"
+  }
 }
