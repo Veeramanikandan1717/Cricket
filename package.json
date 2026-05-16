@@ -1,5 +1,5 @@
 {
-  "name": "practice-app-monorepo",
+  "name": "cric-11",
   "private": true,
   "workspaces": [
     "apps/*",
@@ -7,7 +7,7 @@
   ],
   "dependencies": {
     "@reduxjs/toolkit": "^2.11.2",
-    "players": "*",
+  "players": "*",
     "module-b": "*",
     "react-redux": "^9.2.0"
   }
